@@ -111,7 +111,7 @@
     for (var i = 0; i < properties.flakesAmount; i++) {
       let flake = new Snowflake();
       if (flake.radius == 1 && Math.random() < 0.3) {
-        // увеличить частоту появления will Increese
+        //  increase amount snoewlacks, that will grow
         flake.willIncreese = true;
       }
 
